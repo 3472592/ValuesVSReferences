@@ -1,0 +1,15 @@
+C:\Users\Liberty Fox User\Desktop\C#\Ch13\Mine\ValuesVsReferences\bin\Debug\net6.0\ValuesVsReferences.exe
+C:\Users\Liberty Fox User\Desktop\C#\Ch13\Mine\ValuesVsReferences\bin\Debug\net6.0\ValuesVsReferences.deps.json
+C:\Users\Liberty Fox User\Desktop\C#\Ch13\Mine\ValuesVsReferences\bin\Debug\net6.0\ValuesVsReferences.runtimeconfig.json
+C:\Users\Liberty Fox User\Desktop\C#\Ch13\Mine\ValuesVsReferences\bin\Debug\net6.0\ValuesVsReferences.dll
+C:\Users\Liberty Fox User\Desktop\C#\Ch13\Mine\ValuesVsReferences\bin\Debug\net6.0\ValuesVsReferences.pdb
+C:\Users\Liberty Fox User\Desktop\C#\Ch13\Mine\ValuesVsReferences\obj\Debug\net6.0\ValuesVsReferences.csproj.AssemblyReference.cache
+C:\Users\Liberty Fox User\Desktop\C#\Ch13\Mine\ValuesVsReferences\obj\Debug\net6.0\ValuesVsReferences.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Liberty Fox User\Desktop\C#\Ch13\Mine\ValuesVsReferences\obj\Debug\net6.0\ValuesVsReferences.AssemblyInfoInputs.cache
+C:\Users\Liberty Fox User\Desktop\C#\Ch13\Mine\ValuesVsReferences\obj\Debug\net6.0\ValuesVsReferences.AssemblyInfo.cs
+C:\Users\Liberty Fox User\Desktop\C#\Ch13\Mine\ValuesVsReferences\obj\Debug\net6.0\ValuesVsReferences.csproj.CoreCompileInputs.cache
+C:\Users\Liberty Fox User\Desktop\C#\Ch13\Mine\ValuesVsReferences\obj\Debug\net6.0\ValuesVsReferences.dll
+C:\Users\Liberty Fox User\Desktop\C#\Ch13\Mine\ValuesVsReferences\obj\Debug\net6.0\refint\ValuesVsReferences.dll
+C:\Users\Liberty Fox User\Desktop\C#\Ch13\Mine\ValuesVsReferences\obj\Debug\net6.0\ValuesVsReferences.pdb
+C:\Users\Liberty Fox User\Desktop\C#\Ch13\Mine\ValuesVsReferences\obj\Debug\net6.0\ValuesVsReferences.genruntimeconfig.cache
+C:\Users\Liberty Fox User\Desktop\C#\Ch13\Mine\ValuesVsReferences\obj\Debug\net6.0\ref\ValuesVsReferences.dll
